@@ -1,0 +1,6 @@
+{
+  "name": "Sonic Arcade 2D",
+  "description": "Retro 2D Sonic platformer arcade game with momentum physics, spin dash, loops, rings, badniks, springs and chiptune sound effects built with HTML5 Canvas and Vite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
